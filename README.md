@@ -1,3 +1,2 @@
-# MachineLearning
-Machine Learning using the orange tool
-Use the To download the files
+Machine Learning using the orange tool 
+To download the files click "Code" > "Local" > "Download Zip"
